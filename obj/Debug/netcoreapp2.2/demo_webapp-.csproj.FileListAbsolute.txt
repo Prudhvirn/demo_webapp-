@@ -1,0 +1,14 @@
+C:\webapp_git_demo\demo_webapp-\bin\Debug\netcoreapp2.2\demo_webapp-.deps.json
+C:\webapp_git_demo\demo_webapp-\bin\Debug\netcoreapp2.2\demo_webapp-.runtimeconfig.json
+C:\webapp_git_demo\demo_webapp-\bin\Debug\netcoreapp2.2\demo_webapp-.runtimeconfig.dev.json
+C:\webapp_git_demo\demo_webapp-\bin\Debug\netcoreapp2.2\demo_webapp-.dll
+C:\webapp_git_demo\demo_webapp-\bin\Debug\netcoreapp2.2\demo_webapp-.pdb
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.csprojAssemblyReference.cache
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.csproj.CoreCompileInputs.cache
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.RazorAssemblyInfo.cache
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.RazorAssemblyInfo.cs
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.AssemblyInfoInputs.cache
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.AssemblyInfo.cs
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.RazorTargetAssemblyInfo.cache
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.dll
+C:\webapp_git_demo\demo_webapp-\obj\Debug\netcoreapp2.2\demo_webapp-.pdb
